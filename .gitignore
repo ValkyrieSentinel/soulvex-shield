@@ -1,0 +1,13 @@
+
+/target/
+**/*.rs.bk
+
+
+*.out
+*.vcd
+*.log
+*.jou
+
+
+.DS_Store
+*.swp
