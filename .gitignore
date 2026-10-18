@@ -9,12 +9,12 @@ Cargo.lock
 *.bpf.link.o
 *.bpf.skel.h
 
-# Verilog / FPGA simulation
+# Verilog / FPGA
 *.vcd
 *.fst
 *.log
 *.out
-sim
+sim/
 
 # IDE / OS
 .vscode/
